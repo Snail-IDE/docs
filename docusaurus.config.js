@@ -13,7 +13,6 @@ module.exports = {
       title: 'Snail IDE Documentation',
       items: [
         {
-        {
           href: 'https://snail-ide.github.io/',
           label: 'Snail IDE',
           position: 'right'
