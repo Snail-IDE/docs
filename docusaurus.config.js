@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Snail IDE Documentation',
   url: 'https://snail-ide.github.io/',
-  baseUrl: '/',
+  baseUrl: '/docs',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'Snail-IDE',
