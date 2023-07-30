@@ -1,8 +1,8 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Snail IDE Documentation',
-  url: 'https://snail-ide.github.io/',
-  baseUrl: '/docs',
+  url: 'https://snail-ide.github.io',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'Snail-IDE',
