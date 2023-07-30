@@ -1,34 +1,25 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'TurboWarp Documentation',
-  url: 'https://docs.turbowarp.org',
+  title: 'Snail IDE Documentation',
+  url: 'https://snail-ide.github.io/docs/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  organizationName: 'TurboWarp',
+  organizationName: 'Snail-IDE',
   projectName: 'docs',
   trailingSlash: false,
   themeConfig: {
     navbar: {
-      title: 'TurboWarp Documentation',
+      title: 'Snail IDE Documentation',
       items: [
         {
-          href: '/packager/',
-          label: 'Packager',
-          position: 'left'
-        },
         {
-          href: '/development/',
-          label: 'Development',
-          position: 'left'
-        },
-        {
-          href: 'https://turbowarp.org/',
-          label: 'TurboWarp',
+          href: 'https://snail-ide.github.io/',
+          label: 'Snail IDE',
           position: 'right'
         },
         {
-          href: 'https://github.com/TurboWarp',
+          href: 'https://github.com/Snail-IDE',
           label: 'GitHub',
           position: 'right',
         },
@@ -55,7 +46,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          editUrl: 'https://github.com/TurboWarp/docs/edit/master/',
+          editUrl: 'https://github.com/Snail-IDE/docs/edit/master/',
           breadcrumbs: false,
         },
         theme: {
