@@ -4,18 +4,13 @@ title: Intro
 hide_table_of_contents: true
 ---
 
-# TurboWarp Documentation
+# Snail-IDE Documentation (Warning this is unfinshed)
 
-[TurboWarp](https://turbowarp.org/) is a mod of Scratch with improved performance, dark mode, addons, and more. This is the place where its extra documentation goes.
+[Snail IDE](https://snail-ide.github.io) is a mod of Scratch with improved performance, dark mode, addons, and more. This is the place where its extra documentation goes.
 
 Related projects:
 
- - [TurboWarp Desktop](https://desktop.turbowarp.org/)
- - [TurboWarp Packager](https://packager.turbowarp.org/)
- - [TurboWarp Unpackager](https://turbowarp.github.io/unpackager/)
- - [TurboWarp Extension Gallery](https://extensions.turbowarp.org/)
- - [sb3fix](https://turbowarp.github.io/sb3fix/)
- - [sb-downloader](https://forkphorus.github.io/sb-downloader/)
- - [forkphorus](https://forkphorus.github.io/)
+ - [Community Extensions]([https://extensions.turbowarp.org/](https://snail-ide.github.io/community-extensions/))
+ - [PlasmaSpeed](https://plasmaspeed.github.io/)
 
-These pages are [open source](https://github.com/TurboWarp/docs). Contributions are welcome.
+These pages are [open source](https://github.com/Snail-IDE/docs). Contributions are welcome.
