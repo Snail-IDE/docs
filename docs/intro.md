@@ -10,7 +10,7 @@ hide_table_of_contents: true
 
 Related projects:
 
- - [Community Extensions]([https://extensions.turbowarp.org/](https://snail-ide.github.io/community-extensions/))
+ - [Community Extensions]((https://snail-ide.github.io/community-extensions/))
  - [PlasmaSpeed](https://plasmaspeed.github.io/)
 
 These pages are [open source](https://github.com/Snail-IDE/docs). Contributions are welcome.
