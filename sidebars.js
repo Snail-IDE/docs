@@ -27,6 +27,7 @@ module.exports = {
     'website/translate',
     'website/url-parameters',
     'website/scratch-accounts',
+    'website/old-versions',
     'website/donate',
   ],
   development: [

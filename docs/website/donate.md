@@ -5,8 +5,11 @@ hide_table_of_contents: true
 
 # Donate
 
-The TurboWarp project now accepts donations on GitHub https://github.com/sponsors/GarboMuffin and other places https://muffin.ink/donate
+Snail IDE does not currently accept donations but we may in the future.
 
-You should also donate to Scratch: https://scratch.mit.edu/donate
+However you should donate to TurboWarp and Scratch.
+TurboWarp: https://github.com/sponsors/GarboMuffin or https://muffin.ink/donate
+
+Scratch: https://scratch.mit.edu/donate
 
 Thank you! ❤️
