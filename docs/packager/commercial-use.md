@@ -3,7 +3,7 @@ slug: /packager/commercial-use
 hide_table_of_contents: true
 ---
 
-# Can I sell projects made with the TurboWarp Packager?
+# Can I sell projects made with the Snail IDE Packager?
 
 :::note
 We are not lawyers. This page is not legal advice. If this is important, talk to a real lawyer.
@@ -19,4 +19,4 @@ Note that the Scratch trademarks such as the Scratch Logo, Scratch cat, Gobo, Pi
 
 For more information, see "May I use / remix Scratch support materials, sprites, images, sounds or sample projects I’ve found on the website?" and "Can I sell my Scratch projects?" in https://scratch.mit.edu/faq
 
-If you make money off of the packager, you are encouraged to [donate to us and the projects we rely upon](/donate). ❤️
+If you make money off of the packager, you are encouraged to [the projects we rely upon](/donate). ❤️
