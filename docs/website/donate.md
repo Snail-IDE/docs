@@ -7,9 +7,10 @@ hide_table_of_contents: true
 
 Snail IDE does not currently accept donations but we may in the future.
 
-However you should donate to TurboWarp and Scratch.
-TurboWarp: https://github.com/sponsors/GarboMuffin or https://muffin.ink/donate
+However you should donate to TurboWarp, Scratch and PenguinMod.
+- TurboWarp: https://github.com/sponsors/GarboMuffin or https://muffin.ink/donate
+- PenguinMod: https://penguinmod.site/donate
 
-Scratch: https://scratch.mit.edu/donate
+- Scratch: https://scratch.mit.edu/donate
 
 Thank you! ❤️
